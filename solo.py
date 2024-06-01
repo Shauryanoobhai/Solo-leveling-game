@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 import random
 
 # Replace with your bot token
-BOT_TOKEN = "your_bot_token_here"
+BOT_TOKEN = "6731360333:AAGGUJyxRf9qXHf5tFuNYEfLYCos39Qo9-Y"
 
 # Initialize the Pyrogram client
-app = Client("solo_leveling_game_bot", api_id=12345, api_hash="your_api_hash_here", bot_token=BOT_TOKEN)
+app = Client("solo_leveling_game_bot", api_id=29422639, api_hash="e21bccfd64a01c5762ce81c77379dc7f", bot_token=BOT_TOKEN)
 
 # Define a dictionary to store player data
 players = {}
